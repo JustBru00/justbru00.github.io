@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/justbru00
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://justbru00.github.io
+  * I am justbru00 (https://keybase.io/justbru00) on keybase.
+  * I have a public key with fingerprint 8B70 FE50 B5E2 3D8D 0899  2811 807C A64D 6692 CBEF
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0101ea19bf82632933ebf413e7a4137e4977a96ac80fe5a83084d80e224799d990410a",
+            "fingerprint": "8b70fe50b5e23d8d08992811807ca64d6692cbef",
+            "host": "keybase.io",
+            "key_id": "807ca64d6692cbef",
+            "kid": "0101ea19bf82632933ebf413e7a4137e4977a96ac80fe5a83084d80e224799d990410a",
+            "uid": "d722b4de789d6d6057ac6270b07d4119",
+            "username": "justbru00"
+        },
+        "service": {
+            "hostname": "justbru00.github.io",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1477784949,
+    "expire_in": 157680000,
+    "prev": "3909d9eb82442bb3d213665935eb2e91c7d2607de6fb28711b749a838dc53789",
+    "seqno": 10,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.58
+Comment: https://keybase.io/crypto
+
+yMInAnicrZJbSBVBGMfPSc1LBb1YSWS0EL6Yzl5nxgq6CpVFEZlkedjZmXNczbOn
+PbuamMTpQqFJZVG9WJYVFFEEIUVJWqJSYFlmFF0wRMsKuj1lWbNWL9Fj8zDDfPy/
+33z/P9M+Kc6X4k/a9zaQ2po3zn+3rdH1FaSqbpVALFop5FQJpWzsYJspizqBUpMK
+OQIQgch0EZMgkjRZwrLMSFARZQZ1vkOmYAh1rOkGAkGm6kgGSKEIMElSIMYUY6CI
+QBcyhaAZDjE7Ypthh2MRgZ4eEJVJMkUUIIwlJIoIQEPXFKppWDIIC/LGYivqdfDh
+iB5lWabFa/wSGBvvH/r/PLc7hqNQkohCGUSYalQDKtQNTYKAAEgVUcSeMMrssF7G
+uLrEjTrEdgEQqjMFXi43DeYl61n5W5IVMp1il/zyFbEtxzKszVxQ7DiRaI4HcCoj
+XkcFI4HfrAAxw5TnyTvKmR01rbCQI3Kl4ZgeXFQghEjBCs4U2NaIabOA6SlUqCHA
+l/cOK+dIGQNulREkKYpEiEwlUdY0FcsqIxLDogGppHGHTAsSCUFRJFDBPCtEDVXm
+UQieuy1hi7M51NFDnBk1Q2HdcW0mVN9q3Rjv86f4xieM8z6aLyV58p/v98afODp7
+3uKh2Acj/VBssHy93p5YNUqm5b18X3s52JR78mjNndQXjRN8A/1rn7/cVnRoQ1/b
+gvln14iD9VuaB7pudnxNqb0Un/kodPhZxkDh/L4rD/zXYr0P9fi++gPdS+7Herfv
+HJq5CTd/ntpUZMDv+wd3Te/+knSjZYq6veUjyU0UQie+Ve2ZkzY62GVfzU44buir
+zp3qrO9tyI0lVxdcP/YU9pz+3B6LZw2v3cZXq0ce96+81yMULSt7dyY/e0ddzfKr
+FW7GkTo2VHa07EiwNK7/2NJPc5+s67hw4mDnxJK9CYmLWveOrDhldY98yr12eNGO
+tIbCWbd/KMPpC8cPN+efn3FxN8r6CXBdRbs=
+=bMsR
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/justbru00
+
+==================================================================
